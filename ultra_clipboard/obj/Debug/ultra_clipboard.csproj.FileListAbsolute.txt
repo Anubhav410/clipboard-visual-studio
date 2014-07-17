@@ -1,0 +1,7 @@
+c:\users\anubhavsr\documents\visual studio 2013\Projects\ultra_clipboard\ultra_clipboard\bin\Debug\ultra_clipboard.exe.config
+c:\users\anubhavsr\documents\visual studio 2013\Projects\ultra_clipboard\ultra_clipboard\bin\Debug\ultra_clipboard.exe
+c:\users\anubhavsr\documents\visual studio 2013\Projects\ultra_clipboard\ultra_clipboard\bin\Debug\ultra_clipboard.pdb
+c:\users\anubhavsr\documents\visual studio 2013\Projects\ultra_clipboard\ultra_clipboard\obj\Debug\ultra_clipboard.exe
+c:\users\anubhavsr\documents\visual studio 2013\Projects\ultra_clipboard\ultra_clipboard\obj\Debug\ultra_clipboard.pdb
+c:\users\anubhavsr\documents\visual studio 2013\Projects\ultra_clipboard\ultra_clipboard\bin\Debug\ultra_clipboard.exe.CodeAnalysisLog.xml
+c:\users\anubhavsr\documents\visual studio 2013\Projects\ultra_clipboard\ultra_clipboard\bin\Debug\ultra_clipboard.exe.lastcodeanalysissucceeded
